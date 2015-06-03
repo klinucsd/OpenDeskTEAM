@@ -1,0 +1,65 @@
+
+.speciesClass {
+    height:300px;
+}
+
+#gallery {
+    overflow-y : auto;
+}
+
+#applytogroup {
+    padding-top:4pt;
+}
+
+.x-form-cb-label {
+    top:0px;
+}
+
+.annotated a span{
+    color: #006600;
+    // font-weight: bold;
+}
+
+.cellClass {
+    vertical-align:text-top;
+}
+
+.falseImg {
+    opacity : 1.0;
+    filter : "alpha(opacity=1.0)";
+}
+
+.trueImg {
+    opacity : 0.4;
+    filter : "alpha(opacity=0.4)";
+}
+
+.ckCls {
+    font-family:arial,tahoma,helvetica,sans-serif;
+    font-size:11px;
+    font-size-adjust:none;
+    font-style:normal;
+    font-variant:normal;
+    font-weight:normal;
+
+    padding-top: 5pt;
+    padding-left: 2pt;
+}
+
+
+.icon_project {  
+    background-image: url(../images/icons/cone.png) !important;  
+} 
+
+.icon_project_add {  
+    background-image: url(../images/icons/application_add.png) !important;  
+} 
+
+.icon_project_edit {  
+    background-image: url(../images/icons/application_edit.png) !important;  
+} 
+
+
+.projectAbbv {
+   text-transform: uppercase;
+}
